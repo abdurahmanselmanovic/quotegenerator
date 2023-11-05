@@ -31,4 +31,12 @@
 	color: black;
 	width: 200px;
 	height: 40px;
+	cursor: pointer;
+}
+
+.label1 {
+	left: 45%;
+	position: absolute;
+	top: 71%;
+	color: white;
 }

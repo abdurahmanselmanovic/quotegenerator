@@ -35,6 +35,7 @@ class App extends React.Component {
 					<button onClick={this.fetchAdvice} className="button">
 						Another 1
 					</button>
+					<label className="label1">FunFact: This button has delay</label>
 				</div>
 			</div>
 		);
