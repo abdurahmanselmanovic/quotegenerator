@@ -7,3 +7,5 @@ In this project you could learn about fetching data from api (api.adviceslip.com
 Setup:
 
 - run `npm i && npm start`
+
+# https://quotegenerator-d0f.pages.dev/
